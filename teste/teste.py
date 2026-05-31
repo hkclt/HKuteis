@@ -1,4 +1,4 @@
-from Uteis.matematica import basico
+from Uteis.matematica.basico import basico
 
 print(basico.dividir(9, 3, 2, 76))
 print(basico.multiplicar(9, 3, 2, 7, 76))

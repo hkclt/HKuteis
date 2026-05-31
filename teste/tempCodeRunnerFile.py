@@ -1,1 +1,0 @@
-from Uteis.matematica import basico
