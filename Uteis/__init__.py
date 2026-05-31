@@ -1,2 +1,2 @@
-from cores import *
-from matematica import *
+from .cores import *
+from .matematica import *
