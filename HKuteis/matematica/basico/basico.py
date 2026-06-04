@@ -102,7 +102,7 @@ def dif_absoluta(a, b):
     if isinstance(a, (int, float)) and isinstance( b, (int, float)):
         resul = a - b
         if resul < 0:
-            return None
+            return resul * -1
         else:
             return resul
     
