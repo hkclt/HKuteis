@@ -5,4 +5,3 @@ from .estastisca import *
 from .numeros import *
 from .progressoes import *
 from .trigonometria import *
-from .utilitarios import *
